@@ -1,0 +1,8 @@
+numpy
+pandas
+seaborn
+plotly
+scipy
+markdown2
+streamlit
+streamlit-authenticator
